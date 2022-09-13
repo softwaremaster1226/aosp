@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#000000</color>
+    <color name="permission_check_activity_background">@color/primary_color</color>
+    <color name="gray_bg">#1d1d1d</color> // background color
+    <color name="alertBkColor">#1d1d1d</color>
+    <color name="text_color">#ffffff</color> // text color
+
+    <!--  Action bar -->
+    <color name="action_bar_title_text_color">#ffffff</color>
+</resources>
